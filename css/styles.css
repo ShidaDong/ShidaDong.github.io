@@ -125,6 +125,11 @@ article:nth-of-type(2) {
     text-shadow: 5px 5px 8px #ccc;
 }
 
+.action a {
+    text-decoration: none;
+    color: #3b3b4f;
+}
+
 .frame {
     position: relative;
     max-width: 450px;
